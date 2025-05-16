@@ -1,0 +1,6 @@
+site_name: YallaKU
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
+site_url: https://github.com/EngBushraA/YallaKU.git
