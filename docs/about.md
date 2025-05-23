@@ -32,13 +32,12 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 
 ### Autonomous Racing Board
 
+### 🎓 Faculty
+
 - *Prof. Jorge Dias* — Faculty Advisor  
-
 - *Dr. Majid Khonji* — Faculty Advisor  
-
-- *Engr. Bushra Alshehhi* — Technical Advisor  
+- *Engr. Bushra ALShehhi* — Project technical lead and project coordinator  
 ---
-
 ### Race team Summer 2025
 
 *Racing Engineer #1 is required(Software focused)*  
