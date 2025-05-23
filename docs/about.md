@@ -32,7 +32,7 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 
 ### Autonomous Racing Board
 
-### 🎓 Faculty
+### Autonomous Racing Board
 
 - *Prof. Jorge Dias* — Faculty Advisor  
 - *Dr. Majid Khonji* — Faculty Advisor  
