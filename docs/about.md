@@ -40,7 +40,7 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 
 ### 🧭 Team Lead / Project Coordinator
 
--*Engr.Bushra ALShehhi*
+- *Engr.Bushra ALShehhi* -Project technical lead  
 ---
 
 ### Race team Summer 2025
