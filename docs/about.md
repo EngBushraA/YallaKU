@@ -30,7 +30,6 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 
 ## 👥 Our Team
 
-### Autonomous Racing Board
 
 ### Autonomous Racing Board
 
