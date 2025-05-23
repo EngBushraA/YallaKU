@@ -36,11 +36,7 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 
 - *Dr. Majid Khonji* — Faculty Advisor  
 
----
-
-### 🧭 Team Lead / Project Coordinator
-
-- *Engr.Bushra ALShehhi* -Project technical lead and  Queen    
+- *Engr.Bushra ALShehhi* -Project technical lead and project coordinator  
 ---
 
 ### Race team Summer 2025
@@ -50,5 +46,5 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 *Racing Engineer #3 is required(Simulation and simulation to real focused)*  
 *Racing Engineer #4 is required(Team lead)*  
 
-> ✨ *Team members are encouraged to collaborate across divisions. Each sub-team holds regular sprint meetings and reports progress during all-hands reviews.*
+> ✨ *Team members are encouraged to collaborate.*
 
