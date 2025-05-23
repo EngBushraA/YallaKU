@@ -40,15 +40,15 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 
 ### 🧭 Team Lead / Project Coordinator
 
-- *Engr.Bushra ALShehhi* -Project technical lead  
+- *Engr.Bushra ALShehhi* -Project technical lead and  Queen    
 ---
 
 ### Race team Summer 2025
 
-*Racing Engineer #1 is required(Software focused)*
-*Racing Engineer #2 is required(hardware focused)*
-*Racing Engineer #3 is required(Simulation and simulation to real focused)*
-*Racing Engineer #4 is required(Team lead)*
+*Racing Engineer #1 is required(Software focused)*  
+*Racing Engineer #2 is required(hardware focused)*  
+*Racing Engineer #3 is required(Simulation and simulation to real focused)*  
+*Racing Engineer #4 is required(Team lead)*  
 
 > ✨ *Team members are encouraged to collaborate across divisions. Each sub-team holds regular sprint meetings and reports progress during all-hands reviews.*
 
