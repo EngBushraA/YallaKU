@@ -32,83 +32,23 @@ To lead in autonomous racing innovation by integrating cutting-edge research, ha
 
 ### 🎓 Faculty
 
-- *Dr. [Name]* — Faculty Advisor  
-- *[Add additional faculty if needed]*
+- *Prof. Jorge Dias* — Faculty Advisor  
+
+- *Dr. Majid Khonji* — Faculty Advisor  
 
 ---
 
 ### 🧭 Team Lead / Project Coordinator
 
-**Responsibilities:**
-- Oversees the entire project lifecycle  
-- Coordinates between sub-teams to ensure cohesive development  
-- Manages timelines, deliverables, and race registrations  
-- Acts as the primary liaison with competition organizers, faculty, and sponsors
-
+-*Engr.Bushra ALShehhi*
 ---
 
-### 👁️ Perception Team
+### Race team Summer 2025
 
-**Focus Areas:**
-- LiDAR and camera data processing  
-- Obstacle detection and classification  
-- Environmental awareness through dynamic sensor fusion
-
----
-
-### 📍 Localization & State Estimation Team
-
-**Focus Areas:**
-- Implementing SLAM (Simultaneous Localization and Mapping)  
-- Sensor fusion of odometry, IMU, and LiDAR for robust state estimation  
-- Ensuring localization consistency in both simulation and physical environments
-
----
-
-### 🧠 Planning & Control Team
-
-**Focus Areas:**
-- Developing path and trajectory planning (e.g., Pure Pursuit, MPC)  
-- Implementing low-latency vehicle control algorithms (PID, adaptive control)  
-- Generating safe and optimal race paths in dynamic conditions
-
----
-
-### 🧪 Simulation & Testing Team
-
-**Focus Areas:**
-- Maintaining and extending simulation tools (e.g., Gazebo, AutoDRIVE)  
-- Running automated tests and sim-to-real transfer evaluations  
-- Benchmarking algorithms under different racing scenarios
-
----
-
-### 🔧 Hardware & Integration Team
-
-**Focus Areas:**
-- Assembly and maintenance of the F1TENTH vehicle  
-- Sensor, compute unit, and actuation integration  
-- Power management, wiring, and onboard diagnostics
-
----
-
-### 💻 Software Infrastructure & DevOps Team
-
-**Focus Areas:**
-- Version control with Git and GitHub best practices  
-- Setup and maintenance of CI/CD pipelines for ROS 2  
-- Maintaining clean, modular, and documented codebases
-
----
-
-### 📢 Outreach & Documentation Team
-
-**Focus Areas:**
-- Managing the team’s public presence (website, social media)  
-- Creating documentation, blog posts, and videos  
-- Preparing presentations for outreach events and competitions
-
----
+*Racing Engineer #1 is required(Software focused)*
+*Racing Engineer #2 is required(hardware focused)*
+*Racing Engineer #3 is required(Simulation and simulation to real focused)*
+*Racing Engineer #4 is required(Team lead)*
 
 > ✨ *Team members are encouraged to collaborate across divisions. Each sub-team holds regular sprint meetings and reports progress during all-hands reviews.*
 
